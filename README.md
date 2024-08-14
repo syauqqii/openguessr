@@ -11,7 +11,7 @@ OpenGuessr is a bookmarklet designed to help you view the location found in the 
     - Copy and paste the following JavaScript code into the bookmark URL field:
         - [Click Here](https://github.com/syauqqii/openguessr/blob/main/src/gmaps.js) - One-click Google Maps opening
         - [Click Here](https://github.com/syauqqii/openguessr/blob/main/src/marker.js) - One-click Automatic marker placement
-        - [Click Here](https://github.com/syauqqii/openguessr/blob/main/src/marker-safe_mode.js) - One-click Automatic marker placement (Safe Mode)
+        - [Click Here](https://github.com/syauqqii/openguessr/blob/main/src/marker-safe_mode.js) - One-click Automatic marker placement (safe mode)
 2. **Using the Bookmarklet**
     - Navigate to the OpenGuessr game in your browser.
     - Once you see the game map in the iframe, click the bookmarklet you just created.
@@ -19,8 +19,8 @@ OpenGuessr is a bookmarklet designed to help you view the location found in the 
 
 ## 📚 Task List
 - [x] One-click Google Maps opening
-- [ ] Automatic marker placement
-- [ ] Safe mode with random automatic markers
+- [ ] One-click Automatic marker placement
+- [ ] One-click Automatic marker placement (safe mode)
 
 ## 😴 Notes
 > This bookmarklet is designed for use with OpenGuessr and may not work correctly on other sites or if the OpenGuessr site structure changes. 😪😭
