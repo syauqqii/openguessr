@@ -1,4 +1,5 @@
-## OpenGuessr Bookmarklet
+<h1 align="center">OpenGuessr Bookmarklet 🗺️</h1>
+
 ### 🤔 Description
 OpenGuessr is a bookmarklet designed to help you view the location found in the OpenGuessr game on Google Maps. With this bookmarklet, you can quickly see the game location on Google Maps with just one click. 😱😹
 
