@@ -21,6 +21,11 @@ javascript:(function(){
     - Once you see the game map in the iframe, click the bookmarklet you just created.
     - A new tab will open showing the same location on Google Maps.
 
+## 📚 Task List
+- [x] One-click Google Maps opening
+- [ ] Automatic marker placement
+- [ ] Safe mode with random automatic markers
+
 ## 😴 Notes
 > This bookmarklet is designed for use with OpenGuessr and may not work correctly on other sites or if the OpenGuessr site structure changes. 😪😭
 
